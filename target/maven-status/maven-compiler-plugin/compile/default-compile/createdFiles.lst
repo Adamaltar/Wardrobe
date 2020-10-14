@@ -1,0 +1,6 @@
+com\codecool\wardrobe\model\ClothesType.class
+com\codecool\wardrobe\model\Hanger.class
+com\codecool\wardrobe\model\Clothes.class
+com\codecool\wardrobe\model\SimpleHanger.class
+com\codecool\wardrobe\model\DoubleHanger.class
+com\codecool\wardrobe\Wardrobe.class
